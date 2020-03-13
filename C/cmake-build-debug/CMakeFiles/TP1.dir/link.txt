@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/TP1.dir/petit-comp.c.o  -o TP1.exe -Wl,--out-implib,libTP1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
